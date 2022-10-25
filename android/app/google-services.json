@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785417525110",
+    "project_id": "titliyaan-2db47",
+    "storage_bucket": "titliyaan-2db47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785417525110:android:8806942dc1a1d1a3fa8c57",
+        "android_client_info": {
+          "package_name": "com.example.titliyaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785417525110-55dhkjkab3jinqbhdi59mdbmparctqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUsskWVoKxyluzPHEBKVK45MM2ergaIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785417525110-55dhkjkab3jinqbhdi59mdbmparctqcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
